@@ -8,9 +8,9 @@ import sys
 import numpy as np
 import torch
 
-from code1.data_utils import AeProcessor, create_dataset, convert_examples_to_features
-from code1.model import XLMRMultiLabelClassification
-from code1.train_utils import evaluate_model
+from core.data_utils import AeProcessor, create_dataset, convert_examples_to_features
+from core.model import XLMRMultiLabelClassification
+from core.train_utils import evaluate_model
 
 
 def eval():
@@ -23,7 +23,7 @@ def eval():
     max_grad_norm = 1.0
     max_seq_length = 128
     num_train_epochs = 50
-    output_dir = 'models/kpwr_n82_base/'
+    output_dir = 'models/absa/'
     pretrained_path = 'models/roberta_large_fairseq'
     seed = 42
     train_batch_size = 8
