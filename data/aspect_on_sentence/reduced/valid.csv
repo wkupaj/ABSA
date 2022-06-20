@@ -6,32 +6,31 @@
 264:2,124,18,LAPTOP#MISCELLANEOUS,positive,"Nie mając w plecaku wielkiej, nieporęcznej maszyny, czuję, że mogę odrabiać prace domowe z programowania w dowolnym miejscu."
 264:3,102,13,LAPTOP#MISCELLANEOUS,positive,"Gorąco polecam ten komputer studentom poszukującym solidnej maszyny, która pomoże im przetrwać studia."
 264:3,102,13,LAPTOP#QUALITY,positive,"Gorąco polecam ten komputer studentom poszukującym solidnej maszyny, która pomoże im przetrwać studia."
-264:4,181,22,OS#DESIGN_FEATURES,positive,"Świetną funkcją jest wyszukiwanie punktowe: można wyszukiwać dokumenty, po prostu wpisując słowo kluczowe, zamiast przeglądać dziesiątki folderów z plikami w poszukiwaniu dokumentu."
+264:4,181,22,OS,positive,"Świetną funkcją jest wyszukiwanie punktowe: można wyszukiwać dokumenty, po prostu wpisując słowo kluczowe, zamiast przeglądać dziesiątki folderów z plikami w poszukiwaniu dokumentu."
 277:0,107,15,LAPTOP#GENERAL,positive,"Odkąd kupiłem netbooka firmy Toshiba, jestem z niego bardzo zadowolony, mam laptopa i komputer stacjonarny."
 277:1,73,13,LAPTOP#PORTABILITY,positive,Netbook jest dla mnie łatwiejszy do zabrania do łóżka i noszenia ze sobą.
-277:2,80,12,DISPLAY#USABILITY,neutral,"Do ekranu trzeba się trochę przyzwyczaić, ponieważ jest mniejszy niż w laptopie."
-277:2,80,12,DISPLAY#DESIGN_FEATURES,neutral,"Do ekranu trzeba się trochę przyzwyczaić, ponieważ jest mniejszy niż w laptopie."
+277:2,80,12,DISPLAY,neutral,"Do ekranu trzeba się trochę przyzwyczaić, ponieważ jest mniejszy niż w laptopie."
 277:3,29,4,LAPTOP#GENERAL,positive,Nie miałem żadnych problemów.
 77:0,64,10,LAPTOP#GENERAL,positive,"Zwlekałem z kupnem tego komputera, ale to była wspaniała zmiana."
 77:1,77,12,LAPTOP#USABILITY,positive,"Łatwość użytkowania to tylko jedna z zalet, które uwielbiam w komputerze Mac."
 342:0,74,11,LAPTOP#GENERAL,positive,"Ten laptop spełnia wszystkie oczekiwania, a system Windows 7 jest świetny!"
-342:0,74,11,OS#GENERAL,positive,"Ten laptop spełnia wszystkie oczekiwania, a system Windows 7 jest świetny!"
+342:0,74,11,OS,positive,"Ten laptop spełnia wszystkie oczekiwania, a system Windows 7 jest świetny!"
 342:1,84,11,LAPTOP#OPERATION_PERFORMANCE,positive,"Jest szybki, łatwy do skonfigurowania, łatwy do podłączenia do sieci bezprzewodowej."
 342:1,84,11,LAPTOP#USABILITY,positive,"Jest szybki, łatwy do skonfigurowania, łatwy do podłączenia do sieci bezprzewodowej."
 342:1,84,11,LAPTOP#CONNECTIVITY,positive,"Jest szybki, łatwy do skonfigurowania, łatwy do podłączenia do sieci bezprzewodowej."
 342:2,63,9,LAPTOP#CONNECTIVITY,positive,Można go nawet łatwo podłączyć do innych sieci bezprzewodowych.
-342:3,103,14,BATTERY#OPERATION_PERFORMANCE,neutral,"Bateria nie wytrzymuje zbyt długo, ale jestem pewien, że modernizacja baterii rozwiązałaby ten problem."
-342:4,120,19,BATTERY#OPERATION_PERFORMANCE,positive,"Nie używam laptopa w sposób, który wymagałby długiego czasu pracy na baterii, więc jest to dla mnie idealne rozwiązanie."
+342:3,103,14,BATTERY,neutral,"Bateria nie wytrzymuje zbyt długo, ale jestem pewien, że modernizacja baterii rozwiązałaby ten problem."
+342:4,120,19,BATTERY,positive,"Nie używam laptopa w sposób, który wymagałby długiego czasu pracy na baterii, więc jest to dla mnie idealne rozwiązanie."
 273:0,81,10,LAPTOP#DESIGN_FEATURES,positive,Już teraz jestem zafascynowany eleganckim wyglądem i niezawodnością tego laptopa.
 273:0,81,10,LAPTOP#QUALITY,positive,Już teraz jestem zafascynowany eleganckim wyglądem i niezawodnością tego laptopa.
-273:1,157,24,OS#USABILITY,neutral,"Ponieważ przez całe życie korzystałam z komputera PC, trochę czasu zajmuje mi przystosowanie się do systemu operacyjnego Mac, ale powoli się w nim odnajduję."
+273:1,157,24,OS,neutral,"Ponieważ przez całe życie korzystałam z komputera PC, trochę czasu zajmuje mi przystosowanie się do systemu operacyjnego Mac, ale powoli się w nim odnajduję."
 273:2,48,6,LAPTOP#DESIGN_FEATURES,positive,Konstrukcja unibody jest elegancka i wytrzymała.
 273:2,48,6,LAPTOP#QUALITY,positive,Konstrukcja unibody jest elegancka i wytrzymała.
-273:3,88,13,DISPLAY#DESIGN_FEATURES,positive,"Wyświetlacz z podświetleniem LED sprawia, że moje zdjęcia są o wiele bardziej wyraziste."
-273:4,104,14,MOUSE#DESIGN_FEATURES,positive,"Poznaję opcje palców na podkładce pod mysz, które pozwalają na szybsze przeglądanie stron internetowych."
+273:3,88,13,DISPLAY,positive,"Wyświetlacz z podświetleniem LED sprawia, że moje zdjęcia są o wiele bardziej wyraziste."
+273:4,104,14,MOUSE,positive,"Poznaję opcje palców na podkładce pod mysz, które pozwalają na szybsze przeglądanie stron internetowych."
 273:4,104,14,LAPTOP#USABILITY,positive,"Poznaję opcje palców na podkładce pod mysz, które pozwalają na szybsze przeglądanie stron internetowych."
 273:6,83,11,LAPTOP#DESIGN_FEATURES,positive,"Kluczowym czynnikiem, który skłonił mnie do komputera Mac, jest aspekt artystyczny."
-273:7,133,20,SOFTWARE#MISCELLANEOUS,positive,"Do edycji wideo i zdjęć opracowano doskonałe oprogramowanie własne i nie mogę się doczekać, aby regularnie korzystać z tych narzędzi."
+273:7,133,20,SOFTWARE,positive,"Do edycji wideo i zdjęć opracowano doskonałe oprogramowanie własne i nie mogę się doczekać, aby regularnie korzystać z tych narzędzi."
 273:8,140,24,LAPTOP#GENERAL,positive,"Nie mogę się doczekać, by dowiedzieć się więcej o tym, co ta potężna maszyna ma do zaoferowania, i zachęcić innych do zrobienia tego samego."
 273:8,140,24,LAPTOP#OPERATION_PERFORMANCE,positive,"Nie mogę się doczekać, by dowiedzieć się więcej o tym, co ta potężna maszyna ma do zaoferowania, i zachęcić innych do zrobienia tego samego."
 273:9,45,8,LAPTOP#PRICE,negative,"Jest droższy, ale na dłuższą metę się opłaca."
@@ -41,30 +40,30 @@
 135:1,13,3,LAPTOP#GENERAL,negative,Nie kupuj go!
 135:2,30,5,LAPTOP#GENERAL,negative,To najgorszy laptop w historii
 76:0,42,7,LAPTOP#GENERAL,positive,Uwielbiam go od momentu wyjęcia z pudełka.
-76:1,36,5,BATTERY#OPERATION_PERFORMANCE,positive,Bateria wystarcza na naprawdę długo.
+76:1,36,5,BATTERY,positive,Bateria wystarcza na naprawdę długo.
 76:2,65,9,LAPTOP#DESIGN_FEATURES,positive,"Funkcje są świetne, jedyne, czego potrzebuje, to lepsze głośniki."
-76:2,65,9,MULTIMEDIA_DEVICES#GENERAL,negative,"Funkcje są świetne, jedyne, czego potrzebuje, to lepsze głośniki."
+76:2,65,9,MULTIMEDIA_DEVICES,negative,"Funkcje są świetne, jedyne, czego potrzebuje, to lepsze głośniki."
 167:0,24,4,LAPTOP#GENERAL,positive,To jest świetna maszyna!
 167:1,52,6,LAPTOP#DESIGN_FEATURES,positive,"Konstrukcja jest niesamowita, a jakość niespotykana."
 167:1,52,6,LAPTOP#QUALITY,positive,"Konstrukcja jest niesamowita, a jakość niespotykana."
 237:0,45,7,LAPTOP#OPERATION_PERFORMANCE,positive,Jest szybki i ma doskonałą żywotność baterii.
-237:0,45,7,BATTERY#OPERATION_PERFORMANCE,positive,Jest szybki i ma doskonałą żywotność baterii.
-237:1,33,4,DISPLAY#QUALITY,positive,Ekran wyświetla wspaniałe kolory.
+237:0,45,7,BATTERY,positive,Jest szybki i ma doskonałą żywotność baterii.
+237:1,33,4,DISPLAY,positive,Ekran wyświetla wspaniałe kolory.
 254:0,103,15,LAPTOP#GENERAL,positive,"Poleciłbym ten komputer każdemu, kto szuka idealnego laptopa, a czas pracy na baterii jest niesamowity."
-254:0,103,15,BATTERY#OPERATION_PERFORMANCE,positive,"Poleciłbym ten komputer każdemu, kto szuka idealnego laptopa, a czas pracy na baterii jest niesamowity."
+254:0,103,15,BATTERY,positive,"Poleciłbym ten komputer każdemu, kto szuka idealnego laptopa, a czas pracy na baterii jest niesamowity."
 84:1,146,26,LAPTOP#PRICE,positive,"Macbook Pro 13"" mieści się w moim budżecie, a darmowa dostawa i brak podatku do CA to najlepsza cena, jaką można uzyskać za ten wspaniały produkt."
-84:1,146,26,SHIPPING#PRICE,positive,"Macbook Pro 13"" mieści się w moim budżecie, a darmowa dostawa i brak podatku do CA to najlepsza cena, jaką można uzyskać za ten wspaniały produkt."
+84:1,146,26,SHIPPING,positive,"Macbook Pro 13"" mieści się w moim budżecie, a darmowa dostawa i brak podatku do CA to najlepsza cena, jaką można uzyskać za ten wspaniały produkt."
 84:1,146,26,LAPTOP#GENERAL,positive,"Macbook Pro 13"" mieści się w moim budżecie, a darmowa dostawa i brak podatku do CA to najlepsza cena, jaką można uzyskać za ten wspaniały produkt."
 84:2,109,14,LAPTOP#MISCELLANEOUS,positive,"Macbook dotarł w ładnym podwójnym opakowaniu i zapieczętowany w pudełku, wszystkie funkcje działają świetnie."
 84:2,109,14,LAPTOP#OPERATION_PERFORMANCE,positive,"Macbook dotarł w ładnym podwójnym opakowaniu i zapieczętowany w pudełku, wszystkie funkcje działają świetnie."
-84:4,31,5,MULTIMEDIA_DEVICES#QUALITY,negative,Głośniki nie brzmią tak dobrze.
+84:4,31,5,MULTIMEDIA_DEVICES,negative,Głośniki nie brzmią tak dobrze.
 193:1,35,5,LAPTOP#OPERATION_PERFORMANCE,positive,Szczególnie podoba mi się szybkość!
 193:2,43,7,LAPTOP#GENERAL,positive,"Cieszę się, że zdecydowałem się na upgrade!"
 381:1,29,6,LAPTOP#GENERAL,positive,Wszystko mi się w nim podoba.
-381:2,101,16,BATTERY#OPERATION_PERFORMANCE,negative,"Jedynym minusem jest to, że bateria wytrzymuje tylko 1,5-2 godziny, gdy nie jest podłączona do prądu."
-381:3,55,8,BATTERY#OPERATION_PERFORMANCE,negative,"Chciałabym, aby bateria działała co najmniej 4 godziny."
+381:2,101,16,BATTERY,negative,"Jedynym minusem jest to, że bateria wytrzymuje tylko 1,5-2 godziny, gdy nie jest podłączona do prądu."
+381:3,55,8,BATTERY,negative,"Chciałabym, aby bateria działała co najmniej 4 godziny."
 381:4,42,8,LAPTOP#DESIGN_FEATURES,positive,Poza tym wszystkie inne funkcje są na plus
-286:0,220,33,BATTERY#OPERATION_PERFORMANCE,positive,"Kupiłem go dla mojej mamy, która twierdzi, że bateria wystarcza jej na cały dzień pracy, jest bardzo lekki, a reakcja na wykonywane przez nią zadania (czynności związane z Internetem: poczta, wyszukiwanie informacji itp;"
+286:0,220,33,BATTERY,positive,"Kupiłem go dla mojej mamy, która twierdzi, że bateria wystarcza jej na cały dzień pracy, jest bardzo lekki, a reakcja na wykonywane przez nią zadania (czynności związane z Internetem: poczta, wyszukiwanie informacji itp;"
 286:0,220,33,LAPTOP#DESIGN_FEATURES,positive,"Kupiłem go dla mojej mamy, która twierdzi, że bateria wystarcza jej na cały dzień pracy, jest bardzo lekki, a reakcja na wykonywane przez nią zadania (czynności związane z Internetem: poczta, wyszukiwanie informacji itp;"
 286:0,220,33,LAPTOP#OPERATION_PERFORMANCE,positive,"Kupiłem go dla mojej mamy, która twierdzi, że bateria wystarcza jej na cały dzień pracy, jest bardzo lekki, a reakcja na wykonywane przez nią zadania (czynności związane z Internetem: poczta, wyszukiwanie informacji itp;"
 286:0,220,33,LAPTOP#MISCELLANEOUS,positive,"Kupiłem go dla mojej mamy, która twierdzi, że bateria wystarcza jej na cały dzień pracy, jest bardzo lekki, a reakcja na wykonywane przez nią zadania (czynności związane z Internetem: poczta, wyszukiwanie informacji itp;"
@@ -72,119 +71,116 @@
 286:2,94,13,LAPTOP#GENERAL,positive,"Ogólna jakość wykonania urządzenia jest doskonała i poleciłaby go każdemu, kto szuka netbooka."
 286:3,166,22,LAPTOP#MISCELLANEOUS,neutral,"Jeśli szukasz czegoś do przeglądania ogromnych arkuszy kalkulacyjnych lub grania w wymagające graficznie gry, lepiej kup maszynę przeznaczoną dla tego segmentu rynku."
 353:1,42,6,LAPTOP#GENERAL,positive,"Muszę powiedzieć, że ogólnie jest świetny!"
-353:2,107,14,SOFTWARE#MISCELLANEOUS,negative,"Oprócz próbnego oprogramowania, krótkiego czasu pracy na baterii i braku kamery internetowej, jest świetny."
-353:2,107,14,BATTERY#OPERATION_PERFORMANCE,negative,"Oprócz próbnego oprogramowania, krótkiego czasu pracy na baterii i braku kamery internetowej, jest świetny."
+353:2,107,14,SOFTWARE,negative,"Oprócz próbnego oprogramowania, krótkiego czasu pracy na baterii i braku kamery internetowej, jest świetny."
+353:2,107,14,BATTERY,negative,"Oprócz próbnego oprogramowania, krótkiego czasu pracy na baterii i braku kamery internetowej, jest świetny."
 353:2,107,14,LAPTOP#DESIGN_FEATURES,negative,"Oprócz próbnego oprogramowania, krótkiego czasu pracy na baterii i braku kamery internetowej, jest świetny."
 353:2,107,14,LAPTOP#GENERAL,positive,"Oprócz próbnego oprogramowania, krótkiego czasu pracy na baterii i braku kamery internetowej, jest świetny."
 353:3,30,4,LAPTOP#OPERATION_PERFORMANCE,positive,Szybki i atrakcyjny wizualnie!
-353:3,30,4,DISPLAY#QUALITY,positive,Szybki i atrakcyjny wizualnie!
-353:4,42,7,KEYBOARD#DESIGN_FEATURES,negative,"Aha, nie ma klawiatury numerycznej z boku."
+353:3,30,4,DISPLAY,positive,Szybki i atrakcyjny wizualnie!
+353:4,42,7,KEYBOARD,negative,"Aha, nie ma klawiatury numerycznej z boku."
 306:0,230,31,LAPTOP#DESIGN_FEATURES,positive,"Słyszałem mnóstwo komplementów na temat jego wielkości, a jako osoba regularnie dojeżdżająca do pracy autobusem mogę potwierdzić, że jest to komputer idealnych rozmiarów, jeśli przestrzeń robocza ogranicza się do szerokości ciała."
 306:0,230,31,LAPTOP#PORTABILITY,positive,"Słyszałem mnóstwo komplementów na temat jego wielkości, a jako osoba regularnie dojeżdżająca do pracy autobusem mogę potwierdzić, że jest to komputer idealnych rozmiarów, jeśli przestrzeń robocza ogranicza się do szerokości ciała."
-306:1,105,15,BATTERY#OPERATION_PERFORMANCE,positive,Bateria o bardzo długiej żywotności (do 10-11 godzin w zależności od konfiguracji ustawień poziomu mocy).
+306:1,105,15,BATTERY,positive,Bateria o bardzo długiej żywotności (do 10-11 godzin w zależności od konfiguracji ustawień poziomu mocy).
 306:2,114,19,LAPTOP#USABILITY,neutral,"Zwiększyłem ilość pamięci i wymieniłem podstawowy system Windows 7 Starter na Win 7 Home, i działa on bez zarzutu."
 306:2,114,19,LAPTOP#OPERATION_PERFORMANCE,positive,"Zwiększyłem ilość pamięci i wymieniłem podstawowy system Windows 7 Starter na Win 7 Home, i działa on bez zarzutu."
-306:3,63,11,MOUSE#OPERATION_PERFORMANCE,positive,Gram w wiele zwykłych gier online i touchpad jest bardzo czuły.
+306:3,63,11,MOUSE,positive,Gram w wiele zwykłych gier online i touchpad jest bardzo czuły.
 306:5,331,46,LAPTOP#PORTABILITY,positive,"Nie zagrałbym na nim w strzelankę pierwszoosobową, ale jeśli chcesz uruchomić MS Office, wysłać e-mail, czatować, pobrać film, posłuchać muzyki z pewnego sklepu muzycznego o owocowej nazwie i szukasz przenośnego, a jednocześnie wydajnego netbooka, na którym mógłbyś to wszystko zrobić, to gorąco polecam sprawdzenie tego komputera."
 306:5,331,46,LAPTOP#OPERATION_PERFORMANCE,positive,"Nie zagrałbym na nim w strzelankę pierwszoosobową, ale jeśli chcesz uruchomić MS Office, wysłać e-mail, czatować, pobrać film, posłuchać muzyki z pewnego sklepu muzycznego o owocowej nazwie i szukasz przenośnego, a jednocześnie wydajnego netbooka, na którym mógłbyś to wszystko zrobić, to gorąco polecam sprawdzenie tego komputera."
 306:5,331,46,LAPTOP#MISCELLANEOUS,positive,"Nie zagrałbym na nim w strzelankę pierwszoosobową, ale jeśli chcesz uruchomić MS Office, wysłać e-mail, czatować, pobrać film, posłuchać muzyki z pewnego sklepu muzycznego o owocowej nazwie i szukasz przenośnego, a jednocześnie wydajnego netbooka, na którym mógłbyś to wszystko zrobić, to gorąco polecam sprawdzenie tego komputera."
-306:6,189,32,DISPLAY#DESIGN_FEATURES,negative,"Wady tego netbooka są takie same jak w przypadku każdego innego netbooka: rozmiar ekranu nie jest czymś, na co patrzyłbym przez całe 10-11 godzin pracy na baterii przez pięć dni w tygodniu."
-306:7,162,19,SOFTWARE#DESIGN_FEATURES,neutral,"Dodatkowe zastrzeżenie: do podstawowej instalacji jest dołączone oprogramowanie specyficzne dla firmy Toshiba, które może, ale nie musi, odpowiadać użytkownikowi."
+306:6,189,32,DISPLAY,negative,"Wady tego netbooka są takie same jak w przypadku każdego innego netbooka: rozmiar ekranu nie jest czymś, na co patrzyłbym przez całe 10-11 godzin pracy na baterii przez pięć dni w tygodniu."
+306:7,162,19,SOFTWARE,neutral,"Dodatkowe zastrzeżenie: do podstawowej instalacji jest dołączone oprogramowanie specyficzne dla firmy Toshiba, które może, ale nie musi, odpowiadać użytkownikowi."
 3:2,73,12,LAPTOP#DESIGN_FEATURES,positive,Wszystko - od wzornictwa po system operacyjny - jest proste i praktyczne.
-3:2,73,12,OS#USABILITY,positive,Wszystko - od wzornictwa po system operacyjny - jest proste i praktyczne.
+3:2,73,12,OS,positive,Wszystko - od wzornictwa po system operacyjny - jest proste i praktyczne.
 3:2,73,12,LAPTOP#USABILITY,positive,Wszystko - od wzornictwa po system operacyjny - jest proste i praktyczne.
 3:3,41,6,LAPTOP#GENERAL,positive,"UWIELBIAM JE, UWIELBIAM JE, UWIELBIAM JE!"
 312:0,40,7,LAPTOP#MISCELLANEOUS,positive,Jest naprawdę idealny do pracy i zabawy.
 312:1,55,9,LAPTOP#MISCELLANEOUS,positive,Mogę na nim odtwarzać pliki multimedialne 720p i 1080p.
 312:2,108,17,LAPTOP#OPERATION_PERFORMANCE,positive,"Wszystko, czego próbowałem, działa i nigdy nie muszę nosić ze sobą ładowarki, bo bateria jest tak wspaniała."
-312:2,108,17,BATTERY#OPERATION_PERFORMANCE,positive,"Wszystko, czego próbowałem, działa i nigdy nie muszę nosić ze sobą ładowarki, bo bateria jest tak wspaniała."
-312:3,115,20,MULTIMEDIA_DEVICES#QUALITY,negative,"Jedyną rzeczą, która nie jest idealna w tym netbooku, są głośniki - nie są wcale głośne, ale tego się spodziewałem."
+312:2,108,17,BATTERY,positive,"Wszystko, czego próbowałem, działa i nigdy nie muszę nosić ze sobą ładowarki, bo bateria jest tak wspaniała."
+312:3,115,20,MULTIMEDIA_DEVICES,negative,"Jedyną rzeczą, która nie jest idealna w tym netbooku, są głośniki - nie są wcale głośne, ale tego się spodziewałem."
 312:4,73,13,LAPTOP#GENERAL,positive,Zwiększyłem ilość pamięci RAM do 2 GB i jestem z niego bardzo zadowolony.
-312:4,73,13,MEMORY#DESIGN_FEATURES,neutral,Zwiększyłem ilość pamięci RAM do 2 GB i jestem z niego bardzo zadowolony.
+312:4,73,13,MEMORY,neutral,Zwiększyłem ilość pamięci RAM do 2 GB i jestem z niego bardzo zadowolony.
 168:0,257,36,LAPTOP#GENERAL,positive,"Od razu po wyjęciu z pudełka ten mały netbook zrobił wszystko, czego od niego wymagałem, włącznie ze strumieniowym przesyłaniem codziennych materiałów wideo, z którymi na pewno się spotkasz, sprawdzaniem poczty i stron internetowych (mój największy zarzut)."
 168:0,257,36,LAPTOP#MISCELLANEOUS,positive,"Od razu po wyjęciu z pudełka ten mały netbook zrobił wszystko, czego od niego wymagałem, włącznie ze strumieniowym przesyłaniem codziennych materiałów wideo, z którymi na pewno się spotkasz, sprawdzaniem poczty i stron internetowych (mój największy zarzut)."
 168:1,66,10,LAPTOP#DESIGN_FEATURES,positive,"Ma nawet świetną kamerę internetową, a Skype działa bardzo dobrze."
-168:1,66,10,MULTIMEDIA_DEVICES#GENERAL,positive,"Ma nawet świetną kamerę internetową, a Skype działa bardzo dobrze."
-168:1,66,10,SOFTWARE#OPERATION_PERFORMANCE,positive,"Ma nawet świetną kamerę internetową, a Skype działa bardzo dobrze."
+168:1,66,10,MULTIMEDIA_DEVICES,positive,"Ma nawet świetną kamerę internetową, a Skype działa bardzo dobrze."
+168:1,66,10,SOFTWARE,positive,"Ma nawet świetną kamerę internetową, a Skype działa bardzo dobrze."
 168:2,101,15,LAPTOP#GENERAL,positive,"Fakt, że można wydać ponad 100 dolarów na samą kamerę internetową, podkreśla wartość tego urządzenia."
-168:3,120,17,OS#GENERAL,neutral,"System Windows 7 Starter to moim zdaniem świetny sposób myślenia o korzystaniu z netbooka: podstawy, podstawy, podstawy."
-168:4,137,19,OS#GENERAL,negative,"Wymazałem z niego prawie wszystko, zainstalowałem OpenOffice i Firefoksa, i mam niesamowicie wydajną i użyteczną maszynę za świetną cenę."
+168:3,120,17,OS,neutral,"System Windows 7 Starter to moim zdaniem świetny sposób myślenia o korzystaniu z netbooka: podstawy, podstawy, podstawy."
+168:4,137,19,OS,negative,"Wymazałem z niego prawie wszystko, zainstalowałem OpenOffice i Firefoksa, i mam niesamowicie wydajną i użyteczną maszynę za świetną cenę."
 168:4,137,19,LAPTOP#PRICE,positive,"Wymazałem z niego prawie wszystko, zainstalowałem OpenOffice i Firefoksa, i mam niesamowicie wydajną i użyteczną maszynę za świetną cenę."
 168:4,137,19,LAPTOP#OPERATION_PERFORMANCE,positive,"Wymazałem z niego prawie wszystko, zainstalowałem OpenOffice i Firefoksa, i mam niesamowicie wydajną i użyteczną maszynę za świetną cenę."
 168:4,137,19,LAPTOP#GENERAL,positive,"Wymazałem z niego prawie wszystko, zainstalowałem OpenOffice i Firefoksa, i mam niesamowicie wydajną i użyteczną maszynę za świetną cenę."
 168:5,194,28,LAPTOP#MISCELLANEOUS,positive,Ten netbook jest doskonałym komputerem dodatkowym do innego laptopa lub komputera stacjonarnego (ja i moja żona mamy jeszcze jeden laptop) lub jeśli użytkownik używa komputera do prostych zadań.
 168:6,185,27,LAPTOP#PORTABILITY,positive,"Używam go do udzielania korepetycji, a ponieważ ciągle zmieniam uczniów, jest idealny pod względem przenośności i czasu pracy na baterii (tak, wytrzymuje 8 godzin, jak podają reklamy!)."
-168:6,185,27,BATTERY#OPERATION_PERFORMANCE,positive,"Używam go do udzielania korepetycji, a ponieważ ciągle zmieniam uczniów, jest idealny pod względem przenośności i czasu pracy na baterii (tak, wytrzymuje 8 godzin, jak podają reklamy!)."
+168:6,185,27,BATTERY,positive,"Używam go do udzielania korepetycji, a ponieważ ciągle zmieniam uczniów, jest idealny pod względem przenośności i czasu pracy na baterii (tak, wytrzymuje 8 godzin, jak podają reklamy!)."
 168:8,154,23,LAPTOP#GENERAL,positive,"Firma ASUS wykonała świetną robotę, rozwijając swoje netbooki, i poleciłabym go każdemu, kto rozumie swoje potrzeby i wie, jak netbooki mogą je zaspokoić."
-168:8,154,23,COMPANY#GENERAL,positive,"Firma ASUS wykonała świetną robotę, rozwijając swoje netbooki, i poleciłabym go każdemu, kto rozumie swoje potrzeby i wie, jak netbooki mogą je zaspokoić."
+168:8,154,23,COMPANY,positive,"Firma ASUS wykonała świetną robotę, rozwijając swoje netbooki, i poleciłabym go każdemu, kto rozumie swoje potrzeby i wie, jak netbooki mogą je zaspokoić."
 134:0,133,19,LAPTOP#GENERAL,positive,"Byłam zadowolona z zakupu laptopa Toshiba Satellite L305D-S5934 do czasu, gdy nadszedł czas naprawy w ramach gwarancji firmy Toshiba."
-134:0,133,19,SUPPORT#QUALITY,negative,"Byłam zadowolona z zakupu laptopa Toshiba Satellite L305D-S5934 do czasu, gdy nadszedł czas naprawy w ramach gwarancji firmy Toshiba."
-134:1,180,28,SHIPPING#QUALITY,positive,"Komputer został wysłany do magazynu naprawczego 24 czerwca, a zwrócony 2 lipca, co wydaje się krótkim czasem, z wyjątkiem tego, że komputer nie został naprawiony w momencie zwrotu."
-134:1,180,28,SUPPORT#QUALITY,negative,"Komputer został wysłany do magazynu naprawczego 24 czerwca, a zwrócony 2 lipca, co wydaje się krótkim czasem, z wyjątkiem tego, że komputer nie został naprawiony w momencie zwrotu."
-134:3,78,12,SUPPORT#QUALITY,negative,"Nie przejmowano się w ogóle tym, że komputer nie został prawidłowo naprawiony."
-134:4,110,17,SHIPPING#QUALITY,negative,Ze względu na sposób wysyłki wybrany przez firmę Toshiba komputer znajduje się obecnie w stanie West Verginia.
-134:5,124,19,SHIPPING#QUALITY,negative,Komputer mógł zostać wysłany pocztą priorytetową za pośrednictwem USPS za tę samą cenę i dotrzeć przed południem w czwartek.
-134:6,192,35,SHIPPING#QUALITY,negative,"Zamiast tego siedzi w West Verginia i czeka, aż firma UPS w ciągu dwóch dni wyśle mi pudełko, a następnie w ciągu dwóch dni wyśle komputer drogą lotniczą na odległość 691 mil do Louisville Ky."
-134:8,41,7,SUPPORT#QUALITY,negative,A Toshiba zupełnie się tym nie przejmuje.
-134:9,161,30,SUPPORT#QUALITY,negative,"Reakcja firmy Toshiba jest taka, że nic nie można z tym zrobić, więc usiądź wygodnie i pogódź się z faktem, że jesteś bezsilny i że to umysł jest ponad wszystko."
-134:10,48,8,SUPPORT#QUALITY,negative,"Nam to nie przeszkadza, a Tobie nie przeszkadza."
+134:0,133,19,SUPPORT,negative,"Byłam zadowolona z zakupu laptopa Toshiba Satellite L305D-S5934 do czasu, gdy nadszedł czas naprawy w ramach gwarancji firmy Toshiba."
+134:1,180,28,SHIPPING,positive,"Komputer został wysłany do magazynu naprawczego 24 czerwca, a zwrócony 2 lipca, co wydaje się krótkim czasem, z wyjątkiem tego, że komputer nie został naprawiony w momencie zwrotu."
+134:1,180,28,SUPPORT,negative,"Komputer został wysłany do magazynu naprawczego 24 czerwca, a zwrócony 2 lipca, co wydaje się krótkim czasem, z wyjątkiem tego, że komputer nie został naprawiony w momencie zwrotu."
+134:3,78,12,SUPPORT,negative,"Nie przejmowano się w ogóle tym, że komputer nie został prawidłowo naprawiony."
+134:4,110,17,SHIPPING,negative,Ze względu na sposób wysyłki wybrany przez firmę Toshiba komputer znajduje się obecnie w stanie West Verginia.
+134:5,124,19,SHIPPING,negative,Komputer mógł zostać wysłany pocztą priorytetową za pośrednictwem USPS za tę samą cenę i dotrzeć przed południem w czwartek.
+134:6,192,35,SHIPPING,negative,"Zamiast tego siedzi w West Verginia i czeka, aż firma UPS w ciągu dwóch dni wyśle mi pudełko, a następnie w ciągu dwóch dni wyśle komputer drogą lotniczą na odległość 691 mil do Louisville Ky."
+134:8,41,7,SUPPORT,negative,A Toshiba zupełnie się tym nie przejmuje.
+134:9,161,30,SUPPORT,negative,"Reakcja firmy Toshiba jest taka, że nic nie można z tym zrobić, więc usiądź wygodnie i pogódź się z faktem, że jesteś bezsilny i że to umysł jest ponad wszystko."
+134:10,48,8,SUPPORT,negative,"Nam to nie przeszkadza, a Tobie nie przeszkadza."
 134:11,93,14,LAPTOP#GENERAL,negative,Nie polecam zakupu tego modelu komputera firmy Toshiba ani żadnego innego produktu tej firmy.
-134:11,93,14,COMPANY#GENERAL,negative,Nie polecam zakupu tego modelu komputera firmy Toshiba ani żadnego innego produktu tej firmy.
-134:12,79,12,SUPPORT#QUALITY,negative,"Gdy przychodzi czas na serwis gwarancyjny w firmie Toshiba, nie masz znaczenia."
+134:11,93,14,COMPANY,negative,Nie polecam zakupu tego modelu komputera firmy Toshiba ani żadnego innego produktu tej firmy.
+134:12,79,12,SUPPORT,negative,"Gdy przychodzi czas na serwis gwarancyjny w firmie Toshiba, nie masz znaczenia."
 328:0,80,10,LAPTOP#MISCELLANEOUS,positive,Z łatwością zaspokaja wszystkie moje podstawowe potrzeby w zakresie multimediów.
-328:1,77,13,DISPLAY#GENERAL,positive,"Z łatwością słucham muzyki i oglądam filmy, a do tego ma świetny wyświetlacz."
+328:1,77,13,DISPLAY,positive,"Z łatwością słucham muzyki i oglądam filmy, a do tego ma świetny wyświetlacz."
 328:1,77,13,LAPTOP#USABILITY,positive,"Z łatwością słucham muzyki i oglądam filmy, a do tego ma świetny wyświetlacz."
 328:2,117,17,LAPTOP#OPERATION_PERFORMANCE,positive,"Jest szybki po bezprzewodowym podłączeniu do dowolnej sieci, niezależnie od tego, czy połączenie jest słabe, czy nie."
 328:2,117,17,LAPTOP#CONNECTIVITY,positive,"Jest szybki po bezprzewodowym podłączeniu do dowolnej sieci, niezależnie od tego, czy połączenie jest słabe, czy nie."
 328:3,88,11,LAPTOP#MISCELLANEOUS,positive,To świetny produkt do zaspokojenia podstawowych potrzeb w zakresie przetwarzania danych.
 318:0,168,26,LAPTOP#GENERAL,positive,"Pro to świetny produkt, szkoda tylko, że modele 13-calowe nie są wyposażone w procesory Intel i i nie mają wygodniejszych krawędzi (krawędzie bolą mnie w nadgarstkach)."
-318:0,168,26,CPU#MISCELLANEOUS,neutral,"Pro to świetny produkt, szkoda tylko, że modele 13-calowe nie są wyposażone w procesory Intel i i nie mają wygodniejszych krawędzi (krawędzie bolą mnie w nadgarstkach)."
+318:0,168,26,CPU,neutral,"Pro to świetny produkt, szkoda tylko, że modele 13-calowe nie są wyposażone w procesory Intel i i nie mają wygodniejszych krawędzi (krawędzie bolą mnie w nadgarstkach)."
 318:0,168,26,LAPTOP#DESIGN_FEATURES,negative,"Pro to świetny produkt, szkoda tylko, że modele 13-calowe nie są wyposażone w procesory Intel i i nie mają wygodniejszych krawędzi (krawędzie bolą mnie w nadgarstkach)."
 318:0,168,26,LAPTOP#USABILITY,negative,"Pro to świetny produkt, szkoda tylko, że modele 13-calowe nie są wyposażone w procesory Intel i i nie mają wygodniejszych krawędzi (krawędzie bolą mnie w nadgarstkach)."
 318:1,95,14,LAPTOP#OPERATION_PERFORMANCE,positive,"Poza tym to świetnie działająca maszyna, która spełnia wszystkie moje potrzeby, a nawet więcej."
 318:1,95,14,LAPTOP#GENERAL,positive,"Poza tym to świetnie działająca maszyna, która spełnia wszystkie moje potrzeby, a nawet więcej."
 318:2,65,8,LAPTOP#GENERAL,positive,"Świetny produkt Apple z nowym, świetnie wyglądającym wzornictwem."
 318:2,65,8,LAPTOP#DESIGN_FEATURES,positive,"Świetny produkt Apple z nowym, świetnie wyglądającym wzornictwem."
-318:2,65,8,COMPANY#GENERAL,positive,"Świetny produkt Apple z nowym, świetnie wyglądającym wzornictwem."
+318:2,65,8,COMPANY,positive,"Świetny produkt Apple z nowym, świetnie wyglądającym wzornictwem."
 300:3,52,8,LAPTOP#GENERAL,positive,Niedawno kupiłam model mini i jestem nim zachwycona!
 300:4,81,11,LAPTOP#MISCELLANEOUS,positive,Spełnia wszystkie moje potrzeby związane z pracą i przyjemnością podczas podróży.
 300:4,81,11,LAPTOP#PORTABILITY,positive,Spełnia wszystkie moje potrzeby związane z pracą i przyjemnością podczas podróży.
 300:5,52,7,LAPTOP#GENERAL,positive,Jestem całkowicie zadowolony z mojego małego toshie!
 31:0,75,13,LAPTOP#GENERAL,positive,"Po otwarciu pudełka od razu widać, że jest to maszyna zupełnie innej klasy."
 31:1,92,15,LAPTOP#USABILITY,positive,"Łatwość, z jaką wszystko się konfiguruje, jest tak duża, że mogłoby to zrobić nawet dziecko."
-31:2,86,13,DISPLAY#QUALITY,positive,"Ekran jest jasny i wyraźny, system operacyjny jest solidny i przyjazny dla nowicjusza."
-31:2,86,13,OS#QUALITY,positive,"Ekran jest jasny i wyraźny, system operacyjny jest solidny i przyjazny dla nowicjusza."
-31:2,86,13,OS#USABILITY,positive,"Ekran jest jasny i wyraźny, system operacyjny jest solidny i przyjazny dla nowicjusza."
+31:2,86,13,DISPLAY,positive,"Ekran jest jasny i wyraźny, system operacyjny jest solidny i przyjazny dla nowicjusza."
+31:2,86,13,OS,positive,"Ekran jest jasny i wyraźny, system operacyjny jest solidny i przyjazny dla nowicjusza."
 31:3,65,9,LAPTOP#OPERATION_PERFORMANCE,positive,"Szybko, szybko i szybko, strony internetowe po prostu przelatują."
 31:4,106,17,LAPTOP#USABILITY,positive,"W ciągu godziny miałem skonfigurowane i w pełni sprawne IWORKS, Itunes, Email, MS Office, sieć i drukarki."
 31:4,106,17,LAPTOP#CONNECTIVITY,positive,"W ciągu godziny miałem skonfigurowane i w pełni sprawne IWORKS, Itunes, Email, MS Office, sieć i drukarki."
 31:4,106,17,LAPTOP#OPERATION_PERFORMANCE,positive,"W ciągu godziny miałem skonfigurowane i w pełni sprawne IWORKS, Itunes, Email, MS Office, sieć i drukarki."
 31:5,51,8,LAPTOP#USABILITY,positive,Dotyczy to także przesyłania mojej muzyki i filmów.
 31:6,46,6,LAPTOP#OPERATION_PERFORMANCE,positive,Żegnaj NIEBIESKI EKRANIE i BŁĘDY KRYTYCZNE!!!!
-31:7,45,8,SOFTWARE#GENERAL,positive,Skype też jest bardzo fajny w tym urządzeniu.
+31:7,45,8,SOFTWARE,positive,Skype też jest bardzo fajny w tym urządzeniu.
 31:11,233,32,LAPTOP#USABILITY,positive,"Jeśli twój czas jest dla ciebie coś wart, jeśli jesteś zmęczony restartowaniem, formatowaniem, ponowną instalacją, próbami znalezienia sterowników, jeśli chcesz, aby komputer pracował dla ciebie dla odmiany, zmień go na ten komputer."
 31:11,233,32,LAPTOP#OPERATION_PERFORMANCE,positive,"Jeśli twój czas jest dla ciebie coś wart, jeśli jesteś zmęczony restartowaniem, formatowaniem, ponowną instalacją, próbami znalezienia sterowników, jeśli chcesz, aby komputer pracował dla ciebie dla odmiany, zmień go na ten komputer."
 31:12,48,8,LAPTOP#DESIGN_FEATURES,positive,"Jest lekki, a bateria wystarcza na bardzo długo."
-31:12,48,8,BATTERY#OPERATION_PERFORMANCE,positive,"Jest lekki, a bateria wystarcza na bardzo długo."
+31:12,48,8,BATTERY,positive,"Jest lekki, a bateria wystarcza na bardzo długo."
 31:13,41,5,LAPTOP#OPERATION_PERFORMANCE,positive,Bardzo szybkie uruchamianie i wyłączanie.
 356:0,39,6,LAPTOP#PRICE,positive,"to była świetna oferta, muszę przyznać."
 356:1,30,4,LAPTOP#OPERATION_PERFORMANCE,neutral,laptop działał całkiem dobrze.
 356:2,75,9,LAPTOP#OPERATION_PERFORMANCE,negative,nie działa dobrze przy wielu stronach internetowych otwartych jednocześnie.
 356:3,68,10,LAPTOP#OPERATION_PERFORMANCE,negative,"Czasami zawieszał się na 10 sekund, a następnie uruchamiał ponownie."
-356:4,51,8,MOUSE#OPERATION_PERFORMANCE,negative,"Mysz na podkładce, lewy przycisk zawsze się zacina."
-356:5,37,7,MOUSE#OPERATION_PERFORMANCE,negative,Mysz jest o wiele za bardzo wrażliwa.
-356:6,44,8,MOUSE#OPERATION_PERFORMANCE,negative,"Próbowałem go wyłączyć, ale to nic nie dało."
-356:7,55,10,MOUSE#OPERATION_PERFORMANCE,negative,"Mysz cały czas skacze i klika rzeczy, których nie chcę."
-356:7,55,10,MOUSE#USABILITY,negative,"Mysz cały czas skacze i klika rzeczy, których nie chcę."
-356:8,45,8,MOUSE#GENERAL,negative,"To nie jest złe, ale BARDZO BARDZO irytujące."
+356:4,51,8,MOUSE,negative,"Mysz na podkładce, lewy przycisk zawsze się zacina."
+356:5,37,7,MOUSE,negative,Mysz jest o wiele za bardzo wrażliwa.
+356:6,44,8,MOUSE,negative,"Próbowałem go wyłączyć, ale to nic nie dało."
+356:7,55,10,MOUSE,negative,"Mysz cały czas skacze i klika rzeczy, których nie chcę."
+356:8,45,8,MOUSE,negative,"To nie jest złe, ale BARDZO BARDZO irytujące."
 356:9,67,10,LAPTOP#QUALITY,negative,"Myślę, że wydałbym trochę więcej, aby kupić lepiej wykonany laptop."
 48:2,23,3,LAPTOP#GENERAL,positive,Laptop jest przepiękny.
 48:3,28,5,LAPTOP#DESIGN_FEATURES,positive,"Jest smukły, gładki i lekki."
 48:3,28,5,LAPTOP#OPERATION_PERFORMANCE,positive,"Jest smukły, gładki i lekki."
 48:4,121,20,LAPTOP#PORTABILITY,positive,"Jest łatwy do przenoszenia i zabieram go wszędzie tam, gdzie się wybieram i gdzie może być potrzebny dostęp do Internetu."
-48:5,89,12,DISPLAY#DESIGN_FEATURES,positive,"Ekran jest bardzo duży i krystalicznie czysty, o niesamowitych kolorach i rozdzielczości."
-48:5,89,12,DISPLAY#QUALITY,positive,"Ekran jest bardzo duży i krystalicznie czysty, o niesamowitych kolorach i rozdzielczości."
-48:7,81,12,CPU#OPERATION_PERFORMANCE,positive,"Procesor jest bardzo szybki i wydajny, gdy ładuję strony internetowe i aplikacje."
+48:5,89,12,DISPLAY,positive,"Ekran jest bardzo duży i krystalicznie czysty, o niesamowitych kolorach i rozdzielczości."
+48:7,81,12,CPU,positive,"Procesor jest bardzo szybki i wydajny, gdy ładuję strony internetowe i aplikacje."
 48:8,44,8,LAPTOP#QUALITY,positive,Jest cicha i przyjemnie się na niej pracuje.
 48:8,44,8,LAPTOP#OPERATION_PERFORMANCE,positive,Jest cicha i przyjemnie się na niej pracuje.
 48:9,89,15,LAPTOP#GENERAL,positive,"Uwielbiam go i prawdopodobnie kupię kolejny, gdy ten trafi do sklepu Laptop in the sky!!!"
@@ -195,16 +191,15 @@
 30:4,34,7,LAPTOP#GENERAL,positive,Dla mnie pięć gwiazdek to za mało.
 82:1,21,4,LAPTOP#GENERAL,positive,Bardzo mi się podoba!
 82:3,43,5,LAPTOP#GENERAL,positive,To zdecydowanie produkt najwyższej jakości!
-82:3,43,5,COMPANY#GENERAL,positive,To zdecydowanie produkt najwyższej jakości!
+82:3,43,5,COMPANY,positive,To zdecydowanie produkt najwyższej jakości!
 42:2,71,8,LAPTOP#GENERAL,negative,"Prawdopodobnie była to najgorsza decyzja, jaką kiedykolwiek podjęliśmy!"
-42:3,103,16,KEYBOARD#QUALITY,negative,Dwa razy był w warsztacie w celu wymiany dysku twardego i naprawy przycisków dotykowych na klawiaturze!
-42:3,103,16,HARD_DISC#QUALITY,negative,Dwa razy był w warsztacie w celu wymiany dysku twardego i naprawy przycisków dotykowych na klawiaturze!
+42:3,103,16,KEYBOARD,negative,Dwa razy był w warsztacie w celu wymiany dysku twardego i naprawy przycisków dotykowych na klawiaturze!
+42:3,103,16,HARD_DISC,negative,Dwa razy był w warsztacie w celu wymiany dysku twardego i naprawy przycisków dotykowych na klawiaturze!
 42:6,94,16,LAPTOP#GENERAL,positive,"W zasadzie wszystko inne w tym komputerze jest w porządku, ale on po prostu przestaje działać."
 42:6,94,16,LAPTOP#OPERATION_PERFORMANCE,negative,"W zasadzie wszystko inne w tym komputerze jest w porządku, ale on po prostu przestaje działać."
 42:7,61,11,LAPTOP#DESIGN_FEATURES,positive,"Podoba mi się wielkość komputera, ponieważ gram na nim w gry."
-42:8,115,15,KEYBOARD#DESIGN_FEATURES,positive,"Podoba mi się również możliwość ustawienia dodatkowego kalkulatora na klawiaturze, czego nie ma większość laptopów."
-42:9,259,45,KEYBOARD#DESIGN_FEATURES,negative,"Poza tym klawiatura nie zapala się, więc jeśli nie siedzisz w pokoju z jakimś światłem, nie możesz nic zobaczyć, a to jest dla mnie złe, ponieważ mój chłopak ma tendencję do oglądania telewizji w nocy po ciemku, co sprawia, że nie mam jak zobaczyć klawiatury."
-42:9,259,45,KEYBOARD#USABILITY,negative,"Poza tym klawiatura nie zapala się, więc jeśli nie siedzisz w pokoju z jakimś światłem, nie możesz nic zobaczyć, a to jest dla mnie złe, ponieważ mój chłopak ma tendencję do oglądania telewizji w nocy po ciemku, co sprawia, że nie mam jak zobaczyć klawiatury."
+42:8,115,15,KEYBOARD,positive,"Podoba mi się również możliwość ustawienia dodatkowego kalkulatora na klawiaturze, czego nie ma większość laptopów."
+42:9,259,45,KEYBOARD,negative,"Poza tym klawiatura nie zapala się, więc jeśli nie siedzisz w pokoju z jakimś światłem, nie możesz nic zobaczyć, a to jest dla mnie złe, ponieważ mój chłopak ma tendencję do oglądania telewizji w nocy po ciemku, co sprawia, że nie mam jak zobaczyć klawiatury."
 42:10,41,6,LAPTOP#GENERAL,negative,Nie polecam nikomu zakupu tego komputera.
 6:0,52,8,LAPTOP#DESIGN_FEATURES,negative,"Po pierwsze, nie ma przycisku do otwierania pokrywy."
 6:1,49,8,LAPTOP#DESIGN_FEATURES,neutral,Jest ona utrzymywana w miejscu za pomocą magnesu.
@@ -214,10 +209,9 @@
 6:4,59,6,LAPTOP#DESIGN_FEATURES,negative,Jest to całkowite przeciwieństwo ergonomicznej konstrukcji.
 6:4,59,6,LAPTOP#USABILITY,negative,Jest to całkowite przeciwieństwo ergonomicznej konstrukcji.
 6:5,55,8,LAPTOP#USABILITY,negative,Używanie tego urządzenia jest jak łagodna forma tortur.
-6:7,61,9,MOUSE#DESIGN_FEATURES,negative,Bardzo chwalony połączony panel dotykowy i kliker to koszmar.
-6:8,92,13,MOUSE#OPERATION_PERFORMANCE,negative,"Straciłem dwa elementy, nad którymi pracowałem, dopóki nie zorientowałem się, co się dzieje."
-6:8,92,13,MOUSE#USABILITY,negative,"Straciłem dwa elementy, nad którymi pracowałem, dopóki nie zorientowałem się, co się dzieje."
-6:9,82,13,KEYBOARD#QUALITY,negative,"Ponadto klawisz spacji wydaje głośne kliknięcie za każdym razem, gdy się go używa."
+6:7,61,9,MOUSE,negative,Bardzo chwalony połączony panel dotykowy i kliker to koszmar.
+6:8,92,13,MOUSE,negative,"Straciłem dwa elementy, nad którymi pracowałem, dopóki nie zorientowałem się, co się dzieje."
+6:9,82,13,KEYBOARD,negative,"Ponadto klawisz spacji wydaje głośne kliknięcie za każdym razem, gdy się go używa."
 6:10,106,17,LAPTOP#GENERAL,negative,"Nienawidzę tego mówić, ale gdybym mógł zanieść to z powrotem do sklepu i odzyskać pieniądze, zrobiłbym to."
 6:11,76,11,LAPTOP#USABILITY,negative,Mimo tak zwanych zaawansowanych funkcji jest to absolutnie okropne w użyciu.
 6:11,76,11,LAPTOP#DESIGN_FEATURES,neutral,Mimo tak zwanych zaawansowanych funkcji jest to absolutnie okropne w użyciu.
@@ -226,27 +220,12 @@
 6:14,56,10,LAPTOP#GENERAL,negative,"To przykra sprawa, a jedna piątka na pięć to uprzejmość."
 6:15,49,8,LAPTOP#GENERAL,negative,Mój Mac z zaufanego przyjaciela stał się wrogiem.
 6:17,109,20,LAPTOP#GENERAL,negative,"W odpowiednim czasie wyjmę dysk twardy z nowego MacBooka Pro i wyrzucę go tam, gdzie jego miejsce - do kosza."
-68:1,111,16,DISPLAY#DESIGN_FEATURES,neutral,Ale rozmiar ekranu nie jest taki zły do korzystania z poczty elektronicznej i przeglądania stron internetowych.
+68:1,111,16,DISPLAY,neutral,Ale rozmiar ekranu nie jest taki zły do korzystania z poczty elektronicznej i przeglądania stron internetowych.
 68:2,59,9,LAPTOP#DESIGN_FEATURES,positive,"Podoba mi się to urządzenie, ponieważ jest bardzo lekkie..."
-68:3,72,12,BATTERY#OPERATION_PERFORMANCE,positive,"Jest bardzo wygodny w podróży, a czas pracy na baterii jest doskonały..."
+68:3,72,12,BATTERY,positive,"Jest bardzo wygodny w podróży, a czas pracy na baterii jest doskonały..."
 68:3,72,12,LAPTOP#PORTABILITY,positive,"Jest bardzo wygodny w podróży, a czas pracy na baterii jest doskonały..."
-68:4,53,9,BATTERY#OPERATION_PERFORMANCE,positive,10 godzin pracy na baterii to naprawdę coś innego....
+68:4,53,9,BATTERY,positive,10 godzin pracy na baterii to naprawdę coś innego....
 68:5,35,5,LAPTOP#GENERAL,positive,Gorąco polecam zakup tego produktu.
-22:0,87,12,LAPTOP#DESIGN_FEATURES,positive,"Biorąc pod uwagę wszystkie udogodnienia w tym komputerze, jest on naprawdę wartościowy."
-22:0,87,12,LAPTOP#GENERAL,positive,"Biorąc pod uwagę wszystkie udogodnienia w tym komputerze, jest on naprawdę wartościowy."
-22:1,29,4,LAPTOP#QUALITY,positive,Jest bardzo dobrze zbudowany.
-22:2,33,4,KEYBOARD#QUALITY,positive,Klawiatura jest najwyższej klasy.
-22:3,37,5,MOUSE#GENERAL,positive,Panel dotykowy należy do najlepszych.
-22:4,60,10,DISPLAY#DESIGN_FEATURES,negative,"Ekran jest ogromny i kolorowy, ale nie ma podświetlenia LED."
-22:4,60,10,DISPLAY#DESIGN_FEATURES,positive,"Ekran jest ogromny i kolorowy, ale nie ma podświetlenia LED."
-22:5,109,16,GRAPHICS#MISCELLANEOUS,positive,"Karta graficzna jest świetna do multimediów i ponadprzeciętna do gier, ale nie jest pierwszym wyborem gracza."
-22:5,109,16,GRAPHICS#MISCELLANEOUS,negative,"Karta graficzna jest świetna do multimediów i ponadprzeciętna do gier, ale nie jest pierwszym wyborem gracza."
-22:6,64,10,LAPTOP#GENERAL,negative,"Problem, który miałem z tym urządzeniem, był nie do rozwiązania."
-22:7,117,16,FANS_COOLING#QUALITY,negative,"Po 10 minutach ogólnego użytkowania wystąpiła awaria systemu chłodzenia, która nie pozwoliła na usunięcie tego błędu."
-22:7,117,16,FANS_COOLING#OPERATION_PERFORMANCE,negative,"Po 10 minutach ogólnego użytkowania wystąpiła awaria systemu chłodzenia, która nie pozwoliła na usunięcie tego błędu."
-22:9,90,14,GRAPHICS#GENERAL,neutral,"Jestem przekonany, że problem dotyczy karty graficznej Nvidia, ale i tak wymaga on zwrotu."
-22:9,90,14,LAPTOP#GENERAL,negative,"Jestem przekonany, że problem dotyczy karty graficznej Nvidia, ale i tak wymaga on zwrotu."
-22:13,55,8,COMPANY#GENERAL,negative,"Przykro mi Toshiba, ale pierwsze wrażenie ma znaczenie."
 B0096VDM8G_18_A1EIPZLLDN3AGU:0,28,4,LAPTOP#GENERAL,positive,"świetny laptop, uwielbiam go"
 B00KMRGF28_187_A13MKZMIR0KM7W:0,43,8,LAPTOP#OPERATION_PERFORMANCE,positive,"Działa tak, jak w reklamie, a nawet lepiej!"
 B00KMRGF28_187_A13MKZMIR0KM7W:1,53,9,LAPTOP#DESIGN_FEATURES,positive,Bardzo lekka (do tej pory nie przejmowałem się wagą).
@@ -261,12 +240,12 @@ B00KMRGF28_187_A13MKZMIR0KM7W:8,50,7,LAPTOP#GENERAL,positive,Prawdopodobnie kupi
 B00KMRGF28_335_A1FNSDXR0J2ITC:0,32,5,LAPTOP#MISCELLANEOUS,positive,Jest to świetny komputer domowy.
 B00KMRGF28_335_A1FNSDXR0J2ITC:1,26,4,LAPTOP#QUALITY,positive,"Jest bardzo, bardzo cichy."
 B00KMRGF28_335_A1FNSDXR0J2ITC:2,116,20,LAPTOP#GENERAL,positive,"Jedynym powodem, dla którego nie dałem mu 5 gwiazdek, jest to, że muszę sięgać tak daleko, aby pisać na klawiaturze."
-B00KMRGF28_335_A1FNSDXR0J2ITC:2,116,20,KEYBOARD#USABILITY,negative,"Jedynym powodem, dla którego nie dałem mu 5 gwiazdek, jest to, że muszę sięgać tak daleko, aby pisać na klawiaturze."
-B00KMRGF28_335_A1FNSDXR0J2ITC:3,35,5,KEYBOARD#USABILITY,negative,Trzeba też mocno naciskać klawisze.
+B00KMRGF28_335_A1FNSDXR0J2ITC:2,116,20,KEYBOARD,negative,"Jedynym powodem, dla którego nie dałem mu 5 gwiazdek, jest to, że muszę sięgać tak daleko, aby pisać na klawiaturze."
+B00KMRGF28_335_A1FNSDXR0J2ITC:3,35,5,KEYBOARD,negative,Trzeba też mocno naciskać klawisze.
 B00KMRGF28_335_A1FNSDXR0J2ITC:4,62,11,LAPTOP#GENERAL,positive,W przeciwnym razie jest to świetny komputer i ma świetną cenę.
 B00KMRGF28_335_A1FNSDXR0J2ITC:4,62,11,LAPTOP#PRICE,positive,W przeciwnym razie jest to świetny komputer i ma świetną cenę.
 B0096VDM8G_72_AOGYUDXOO03Q4:0,24,4,LAPTOP#USABILITY,positive,Bardzo łatwy w obsłudze.
-B0096VDM8G_72_AOGYUDXOO03Q4:1,31,4,DISPLAY#GENERAL,positive,Wyświetlacz Retina jest piękny.
+B0096VDM8G_72_AOGYUDXOO03Q4:1,31,4,DISPLAY,positive,Wyświetlacz Retina jest piękny.
 B0096VDM8G_72_AOGYUDXOO03Q4:2,30,5,LAPTOP#OPERATION_PERFORMANCE,positive,Poza tym bardzo szybki laptop!
 B0096VDM8G_72_AOGYUDXOO03Q4:3,54,10,LAPTOP#DESIGN_FEATURES,negative,"Minusy: Nie podoba mi się, że nie ma napędu dyskowego."
 B00KB3MXH4_10_A32154TIUMUEBZ:0,17,2,LAPTOP#GENERAL,positive,Świetny laptop...
@@ -282,20 +261,14 @@ B00KMRGF28_112_AG0H7UG6OX2GU:4,16,2,LAPTOP#GENERAL,positive,świetny produkt.
 B00KMRGF28_112_AG0H7UG6OX2GU:5,77,13,LAPTOP#GENERAL,positive,daję mu cztery gwiazdki zamiast pięciu z powodu braku stacji dysków i awarii.
 B00KMRGF28_112_AG0H7UG6OX2GU:5,77,13,LAPTOP#DESIGN_FEATURES,negative,daję mu cztery gwiazdki zamiast pięciu z powodu braku stacji dysków i awarii.
 B00KMRGF28_112_AG0H7UG6OX2GU:5,77,13,LAPTOP#OPERATION_PERFORMANCE,negative,daję mu cztery gwiazdki zamiast pięciu z powodu braku stacji dysków i awarii.
-B00FU83YWS_61_A1TAIZR02ODKET:0,56,9,LAPTOP#GENERAL,positive,"Ogólnie dobry, ale moc obliczeniowa nie jest zbyt dobra."
-B00FU83YWS_61_A1TAIZR02ODKET:0,56,9,CPU#OPERATION_PERFORMANCE,negative,"Ogólnie dobry, ale moc obliczeniowa nie jest zbyt dobra."
-B00FU83YWS_61_A1TAIZR02ODKET:1,96,19,OS#GENERAL,positive,"W7 Pro z aktualizacją do W8 pro jest fajny, ale często się zawiesza na kilka sekund tu i ówdzie."
-B00FU83YWS_61_A1TAIZR02ODKET:1,96,19,OS#OPERATION_PERFORMANCE,negative,"W7 Pro z aktualizacją do W8 pro jest fajny, ale często się zawiesza na kilka sekund tu i ówdzie."
-B00FU83YWS_61_A1TAIZR02ODKET:2,62,12,LAPTOP#OPERATION_PERFORMANCE,negative,Wymieniłem dysk twardy na WD Black 7K i nadal jest dość wolny.
-B00FU83YWS_61_A1TAIZR02ODKET:3,84,11,BATTERY#OPERATION_PERFORMANCE,negative,"Bateria nie wystarcza na długie przeglądanie stron internetowych (może 2,5 godziny)."
 B00FU83YWS_25_A3504VWFA6UMTO:0,25,5,LAPTOP#GENERAL,positive,W ogóle mnie nie zawiódł.
 B00FU83YWS_25_A3504VWFA6UMTO:1,27,4,LAPTOP#GENERAL,positive,Lenovo to najlepszy laptop.
 B00KMRGF28_200_A1SHTXCLHRR3TT:1,64,12,LAPTOP#GENERAL,positive,"Poza tym, że nie znosi systemu Windows 8, po prostu go uwielbia."
-B00KMRGF28_200_A1SHTXCLHRR3TT:1,64,12,OS#GENERAL,negative,"Poza tym, że nie znosi systemu Windows 8, po prostu go uwielbia."
+B00KMRGF28_200_A1SHTXCLHRR3TT:1,64,12,OS,negative,"Poza tym, że nie znosi systemu Windows 8, po prostu go uwielbia."
 B00FU83YWS_219_A1Y4ZXHXI6KT7B:0,21,3,LAPTOP#GENERAL,positive,Uwielbiam ten laptop!
 B00FU83YWS_219_A1Y4ZXHXI6KT7B:1,32,4,LAPTOP#GENERAL,positive,"Robi wszystko, czego potrzebuję!"
 B00KMRGF28_12_A25B2Q7A775WAE:0,150,23,LAPTOP#GENERAL,positive,"Kupiłem komputer Dell Inspiron I3531-1200BK i jak dotąd bardzo mi się podoba. Ten model ma monitor o rzeczywistych parametrach, co jest warte dopłaty."
-B00KMRGF28_12_A25B2Q7A775WAE:0,150,23,DISPLAY#DESIGN_FEATURES,positive,"Kupiłem komputer Dell Inspiron I3531-1200BK i jak dotąd bardzo mi się podoba. Ten model ma monitor o rzeczywistych parametrach, co jest warte dopłaty."
+B00KMRGF28_12_A25B2Q7A775WAE:0,150,23,DISPLAY,positive,"Kupiłem komputer Dell Inspiron I3531-1200BK i jak dotąd bardzo mi się podoba. Ten model ma monitor o rzeczywistych parametrach, co jest warte dopłaty."
 B00KMRGF28_12_A25B2Q7A775WAE:0,150,23,LAPTOP#PRICE,neutral,"Kupiłem komputer Dell Inspiron I3531-1200BK i jak dotąd bardzo mi się podoba. Ten model ma monitor o rzeczywistych parametrach, co jest warte dopłaty."
 B00KMRGF28_12_A25B2Q7A775WAE:1,64,10,LAPTOP#MISCELLANEOUS,positive,"Jeśli szukasz podstawowego komputera PC, to jest to dobry wybór."
 B00KMRGF28_12_A25B2Q7A775WAE:2,93,14,LAPTOP#QUALITY,positive,"Zawiasy w tym komputerze są ładne, szczelne i dobrze wykonane, podobnie jak reszta komputera."
@@ -304,14 +277,11 @@ B00KMRGF28_12_A25B2Q7A775WAE:3,40,6,LAPTOP#PRICE,positive,Byłem zaskoczony ogó
 B00FU83YWS_260_A2YQ3TFBY1MASP:0,65,9,LAPTOP#GENERAL,negative,"Jest to bez wątpienia najgorszy laptop, jaki kiedykolwiek miałem."
 B00FU83YWS_260_A2YQ3TFBY1MASP:2,91,15,LAPTOP#GENERAL,negative,"I oczywiście w zeszłym tygodniu skończyła się możliwość zwrotu, więc teraz muszę z nim żyć."
 B00FU83YWS_260_A2YQ3TFBY1MASP:3,48,8,LAPTOP#GENERAL,negative,Nigdy więcej nie kupię niczego innego od Lenovo!
-B00FU83YWS_260_A2YQ3TFBY1MASP:3,48,8,COMPANY#GENERAL,negative,Nigdy więcej nie kupię niczego innego od Lenovo!
-B00FU83YWS_260_A2YQ3TFBY1MASP:4,62,11,MOUSE#GENERAL,negative,"Jeśli nie planujesz używać myszy z tym laptopem, nie kupuj go."
-B00FU83YWS_260_A2YQ3TFBY1MASP:5,208,29,MOUSE#OPERATION_PERFORMANCE,negative,"Touchpad nie działa poprawnie od momentu dostarczenia, choć na początku myślałam, że to może po prostu jakiś dziwny przypadek, ponieważ większość touchpadów, z którymi pracowałem, ma pewne wrodzone dziwactwa."
-B00FU83YWS_260_A2YQ3TFBY1MASP:5,208,29,MOUSE#QUALITY,negative,"Touchpad nie działa poprawnie od momentu dostarczenia, choć na początku myślałam, że to może po prostu jakiś dziwny przypadek, ponieważ większość touchpadów, z którymi pracowałem, ma pewne wrodzone dziwactwa."
-B00FU83YWS_260_A2YQ3TFBY1MASP:6,182,31,MOUSE#QUALITY,negative,"Ta jednak jest teraz bardzo luźna i muszę albo mocno stukać, albo wielokrotnie naciskać, żeby kliknęła, żeby działała, a potem nagle prawie w ogóle nie mogę jej dotknąć i klika sama."
-B00FU83YWS_260_A2YQ3TFBY1MASP:6,182,31,MOUSE#OPERATION_PERFORMANCE,negative,"Ta jednak jest teraz bardzo luźna i muszę albo mocno stukać, albo wielokrotnie naciskać, żeby kliknęła, żeby działała, a potem nagle prawie w ogóle nie mogę jej dotknąć i klika sama."
-B00FU83YWS_260_A2YQ3TFBY1MASP:6,182,31,MOUSE#USABILITY,negative,"Ta jednak jest teraz bardzo luźna i muszę albo mocno stukać, albo wielokrotnie naciskać, żeby kliknęła, żeby działała, a potem nagle prawie w ogóle nie mogę jej dotknąć i klika sama."
-B00FU83YWS_260_A2YQ3TFBY1MASP:7,45,8,MOUSE#OPERATION_PERFORMANCE,negative,Dziś częściej nie działa w ogóle niż działał.
+B00FU83YWS_260_A2YQ3TFBY1MASP:3,48,8,COMPANY,negative,Nigdy więcej nie kupię niczego innego od Lenovo!
+B00FU83YWS_260_A2YQ3TFBY1MASP:4,62,11,MOUSE,negative,"Jeśli nie planujesz używać myszy z tym laptopem, nie kupuj go."
+B00FU83YWS_260_A2YQ3TFBY1MASP:5,208,29,MOUSE,negative,"Touchpad nie działa poprawnie od momentu dostarczenia, choć na początku myślałam, że to może po prostu jakiś dziwny przypadek, ponieważ większość touchpadów, z którymi pracowałem, ma pewne wrodzone dziwactwa."
+B00FU83YWS_260_A2YQ3TFBY1MASP:6,182,31,MOUSE,negative,"Ta jednak jest teraz bardzo luźna i muszę albo mocno stukać, albo wielokrotnie naciskać, żeby kliknęła, żeby działała, a potem nagle prawie w ogóle nie mogę jej dotknąć i klika sama."
+B00FU83YWS_260_A2YQ3TFBY1MASP:7,45,8,MOUSE,negative,Dziś częściej nie działa w ogóle niż działał.
 B00FU83YWS_260_A2YQ3TFBY1MASP:9,55,9,LAPTOP#OPERATION_PERFORMANCE,negative,"Zawiesza się, zamraża i po prostu nie działa poprawnie."
 B00FU83YWS_260_A2YQ3TFBY1MASP:10,65,9,LAPTOP#OPERATION_PERFORMANCE,negative,Czekam już prawie minutę na otwarcie okna zarządzania komputerem!
 B00FU83YWS_260_A2YQ3TFBY1MASP:11,85,14,LAPTOP#MISCELLANEOUS,negative,"Chociaż nie mam zainstalowanych zbyt wielu programów, pozostało mi tylko 96 z 278 GB!"
